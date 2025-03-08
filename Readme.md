@@ -1,4 +1,4 @@
-### Final Assesmen Dicoding JS
+# Final Assesmen Dicoding JS
 
 ## 1. Writing Comments
 ## 2. Code Style
